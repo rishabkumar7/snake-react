@@ -5,5 +5,5 @@ React Snake Game
 -npm install  
 -npm start 
 
-<img src="https://media.giphy.com/media/fYHbosjAaW0dCgazvN/giphy.gif"> </img>
+<img src="snake.gif"> </img>
  
